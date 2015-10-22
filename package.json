@@ -1,0 +1,33 @@
+{
+  "name": "dash",
+  "version": "0.1.0",
+  "description": "Monitor node js traffic",
+  "main": "dash.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "ejs": "latest",
+    "nedb": "latest",
+    "body-parser": "latest",
+    "mime": "latest",
+    "connect-busboy": "latest"
+  },
+  "engines": {
+    "node": "latest"
+  },
+   "bin": {
+     "dash": "bin/dash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alseambusher/node-dash"
+  },
+  "keywords": [
+    "dashboard",
+    "node"
+  ],
+  "author": "Suresh Alse",
+  "license": "MIT"
+}

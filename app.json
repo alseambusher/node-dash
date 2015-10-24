@@ -1,0 +1,7 @@
+{
+  "name": "node-dash",
+  "description": "Dashboard for you node js applications",
+  "repository": "https://github.com/alseambusher/node-dash",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["dashboard", "node"]
+}

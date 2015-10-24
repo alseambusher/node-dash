@@ -12,7 +12,9 @@
     "nedb": "latest",
     "body-parser": "latest",
     "mime": "latest",
-    "connect-busboy": "latest"
+    "connect-busboy": "latest",
+    "socketwatcher": "latest",
+    "pcap": "latest"
   },
   "engines": {
     "node": "latest"
